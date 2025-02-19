@@ -28,7 +28,7 @@ To use this project, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/stan-lee-tribute.git
+   git clone https://github.com/Umit8098/Stan-Lee-Tribute-Page.git
    ```
 2. Open the `index.html` file in your browser.
 
