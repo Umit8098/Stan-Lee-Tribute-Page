@@ -1,0 +1,95 @@
+/* * {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+} */
+
+body {
+    background-color: black;
+    color: white;
+}
+
+.container {
+    /* border: 1px solid red; */
+    background-color: rgb(73,67,67);
+    width: 80%;
+    margin: auto;
+    border-radius: 20px;
+}
+
+.heading {
+    font-family: "Lobster", serif, cursive;
+}
+
+span {
+    color: red;
+}
+
+#marvel {
+    color: red;
+    margin-left: 10%;
+}
+
+#title {
+    font-size: 90px;
+    text-align: center;
+}
+
+#img-div {
+    /* border: 1px solid blue; */
+    text-align: center;
+    /* width: 400px;
+    margin: auto;
+    border-radius: 20px; */
+}
+
+#image {
+    width: 400px;
+    border-radius: 25px;
+    /* display: block;
+    margin: auto; */
+    box-shadow: 0.4rem 0.4rem 20rem red;
+}
+
+#info {
+    /* font-size: 25px; */
+    font-size: 1.5rem;
+    text-align: justify;
+    width: 80%;
+    margin: 20px auto;
+    text-indent: 1.5rem;
+}
+
+ul {
+    /* border: 1px solid red; */
+    width: 80%;
+    margin: auto;
+}
+
+li {
+    font-size: 1.5rem;
+    line-height: 3rem;
+}
+
+#footer {
+    width: 80%;
+    /* margin: auto; */
+    margin: 2rem;
+    padding: 2rem;
+    font-size: 2rem;
+    text-align: center;
+
+}
+
+#link {
+    text-decoration: none;
+    color: white;
+    border: 1px solid darkorange;
+    padding: 0.2rem;
+    background-color: black;
+    border-radius: 15px;
+}
+
+#link:hover {
+    background-color: rgb(170, 83, 83);
+}
